@@ -1,0 +1,8 @@
+# 개인 데이터는 절대 커밋하지 않아요 (저장소가 public 이면 전 세계에 공개돼요)
+inbox/
+profile.md
+memory/
+.claude/settings.local.json
+*.local.json
+preference-update-*.json
+feedback-*.json
